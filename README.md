@@ -3,12 +3,12 @@
 
 ### **Backend README (`backend/README.md`)**
 
-```markdown
+
 # iNotebook Backend
 
 This is the **backend** of the iNotebook application, built with Node.js and Express. It provides a RESTful API for user authentication and note management.
 
-```
+
 ## Features
 
 - **User Authentication**: JWT-based secure authentication.
