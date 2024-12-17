@@ -25,7 +25,6 @@ This is the **backend** of the iNotebook application, built with Node.js and Exp
 - **Mongoose** (ODM for MongoDB)
 - **JWT** (JSON Web Tokens for authentication)
 - **Bcrypt.js** (password hashing)
-- **Dotenv** (for environment variables)
 - **Nodemon** (development tool)
 
 ---
@@ -38,6 +37,28 @@ This is the **backend** of the iNotebook application, built with Node.js and Exp
 - MongoDB (local instance or MongoDB Atlas)
 
 ---
+## Future Enhancements
+
+- **Search and Filter Notes**:  
+  Add functionality to search notes by keywords and filter them by tags or creation date for better organization and usability.
+
+- **Collaborative Notes**:  
+  Enable real-time collaboration on notes by multiple users using tools like WebSockets or libraries like Socket.IO.
+
+- **Note Archiving and Trash**:  
+  Introduce archiving and trash features to manage notes without deleting them permanently, ensuring users can restore notes when needed.
+
+- **User Profile Management**:  
+  Allow users to update their profile details, including their name, email, and password.
+
+- **Reminders and Notifications**:  
+  Implement reminders for notes with deadlines and send email or push notifications using third-party services like SendGrid or Firebase.
+
+- **Dark Mode**:  
+  Add a dark mode option to improve the user experience, especially for users working at night or in low-light environments.
+
+- **Mobile App Support**:  
+  Build a mobile version of the app using React Native or Flutter, allowing seamless access to notes on smartphones and tablets.
 
 ### Steps
 
